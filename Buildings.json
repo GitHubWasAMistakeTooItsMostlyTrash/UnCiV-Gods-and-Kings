@@ -1115,5 +1115,131 @@
 		"faith": 2,
 		"happiness": 2,
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
+	},
+	
+	
+	
+	
+// Brave New World
+
+	{
+		"name": "Cloves",
+        	"uniqueTo": "Indonesia",
+		"isNationalWonder": true, 
+		"cost": 1,
+		"uniques": ["Only available <in cities without a [Palace]>","Cannot be built with [limit]","Gain a free [limit] [in this city]","Will not be displayed in Civilopedia","Provides [2] [Cloves]","Must be next to [Coast]"],
+	},
+	{
+		"name": "Nutmeg",
+		"uniqueTo": "Indonesia",
+		"isNationalWonder": true,
+		"cost": 1,
+		"uniques": ["Only available <in cities without a [Palace]>","Cannot be built with [limit]","Gain a free [limit] [in this city]","Will not be displayed in Civilopedia","Provides [2] [Nutmeg]","Must be next to [Coast]"],
+	},
+	{
+		"name": "Pepper",
+		"uniqueTo": "Indonesia",
+		"isNationalWonder": true,
+		"cost": 1,
+		"uniques": ["Only available <in cities without a [Palace]>","Cannot be built with [limit]","Gain a free [limit] [in this city]","Will not be displayed in Civilopedia","Provides [2] [Pepper]","Must be next to [Coast]"],
+	},
+	{
+		"name": "Royal Library",
+		"replaces": "Library",
+		"uniqueTo": "Assyria",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]","New [Military] units start with [10] Experience [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Ducal Stable", 
+		"replaces": "Stable",
+		"uniqueTo": "Poland",
+		"cost": 75,
+		"maintenance": 0,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["New [Mounted] units start with [15] Experience [in this city]","[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Ikanda", 
+		"replaces": "Barracks",
+		"uniqueTo": "Zulu",
+		"cost": 75,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured","New [Military] units start with [15] Experience [in this city]","All newly-trained [Sword] units [in this city] receive the [Buffalo Horns] promotion"],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Candi", 
+		"replaces": "Garden",
+		"uniqueTo": "Indonesia",
+		"cost": 120,
+		"faith": 3,
+		"uniques": ["[+25]% great person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Drama and Poetry"
+	},
+
+	// wonders
+	{
+		"name": "Red Fort",
+		"culture": 1,
+		"cityStrength": 12,
+		"greatPersonPoints": {"Great Scientist": 1},
+		"isWonder": true,
+		"uniques": ["[+25]% City Strength from defensive buildings"],
+		"requiredTech": "Metallurgy",
+		"quote": "'When we build, let us think that we build forever.' – John Ruskin"
+	},
+	{
+		"name": "Borobudur",
+		"faith": 5,
+		"isWonder": true,
+		"uniques": [ "Can only be built [in holy cities]","[3] free [Missionary] units appear"],
+		"requiredTech": "Theology",
+		"quote": "'When you realize how perfect everything is, you will tilt your head back and laugh at the sky.' – Gautama Buddha"
+	},
+	{
+		"name": "East India Company", 
+		"cost": 125,
+		"gold": 4,
+		"isNationalWonder": true,
+		"uniques": ["[+1 Gold] from each Trade Route",
+		"Cost increases by [30] per owned city","Requires a [Market] in all cities"],
+        	"requiredTech": "Guilds"
+    	},
+	{
+		"name": "Uffizi", 
+		"culture": 2,
+		"specialistSlots": {"Artist": 2},
+		"isWonder": true,
+		"uniques": ["Free [Great Artist] appears","Requires [Aesthetics]"],
+		"requiredTech": "Architecture",
+		"quote": "'The painter is not simply someone who looks and who sees. Above all, the artist is someone who exposes a personal vision by rendering it visible.'  - Marcel Parquet"
+	},
+	{
+		"name": "Prora", 
+        	"happiness": 2,
+        	"isWonder": true,
+        	"uniques": ["Provides 1 happiness per 2 additional social policies adopted","Free Social Policy","Requires [Autocracy]"],
+        	"requiredTech": "Flight",
+        	"quote": "'This loss (of freedom) means the fading from human life of values infinitely precious to it. There only remain ironbound conditions of employment and trivial amusements for leisure.'  - A.N. Whitehead"
+	},
+	{
+        	"name": "Parthenon", 
+        	"culture": 6,
+        	"isWonder": true,
+        	"greatPersonPoints": {"Great Artist": 1},
+        	"requiredTech": "Drama and Poetry",
+        	"quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
 	}
+		
 ]
