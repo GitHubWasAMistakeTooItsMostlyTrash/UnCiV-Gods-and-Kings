@@ -1432,8 +1432,8 @@
 	
 	
 	// BNW
-	[
-{
+
+	{
 		"name": "Pathfinder", 
 		"unitType": "Scout",
 		"replaces": "Scout",
@@ -1462,7 +1462,7 @@
 		"obsoleteTech": "Chivalry",
 		"attackSound": "arrow"
 	},
-		{
+	{
 		"name": "Siege Tower",
 		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
 		"replaces": "Catapult",
@@ -1534,7 +1534,7 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "metalhit"
 	},
-		{
+	{
 		"name": "Winged Hussar", 
 		"replaces": "Lancer",
 		"uniqueTo": "Poland",
