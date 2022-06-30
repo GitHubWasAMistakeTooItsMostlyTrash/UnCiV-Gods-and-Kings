@@ -60,7 +60,7 @@
 		"outerColor": [181, 232, 232],
 		"innerColor": [68,142,249],
 		"favoredReligion": "Zoroastrianism",
-		"uniqueName": "Hellenic League",
+		"uniqueName": "Macedonian League",
 		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes",
 			"Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios",
