@@ -125,7 +125,8 @@
 		"innerColor": [98,10,210],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]",
+			   "[+1 Production] from every [Flood plains]"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
@@ -155,7 +156,8 @@
 		"uniques": ["[+1 Production] from every [Strategic resource]",
 			    "Double quantity of [Horses] produced",
 			    "Double quantity of [Iron] produced",
-			    "Double quantity of [Uranium] produced"],
+			    "Double quantity of [Uranium] produced",
+			    "[+2 Gold, +1 Food] from every [Trade Route]"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
@@ -380,7 +382,9 @@
 		"favoredReligion": "Tengriism",
 		"uniqueName": "Mongol Terror",
 		"uniques": ["+30% Strength when fighting City-State units and cities",
-			    "[+1] Movement <for [Mounted] units>"],
+			    "[+1] Movement <for [Mounted] units>"
+			    "[+1] Movement <for [Armor] units>",
+			    "Double quantity of [Horses] produced"],
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan",
 			"Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg",
 			"Baruun-Urt","Ereen","Batshireet","Choyr","Ulaangom","Tosontsengel","Altay","Uliastay","Bayanhongor",
@@ -409,7 +413,9 @@
 		"innerColor": [134,238,214],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Sacrificial Captives",
-		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]"],
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Culture]"
+			   "[-20]% City-State Influence degradation",
+			    "Receive free [Worker] when you discover [Pottery]"],
 		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
@@ -608,7 +614,12 @@
 		"uniqueName": "Druidic Lore",
 		"uniques": ["[+1 Faith] [in all cities] <with [1] to [2] neighboring [unimproved] [Forest] tiles>",
 			"[+2 Faith] [in all cities] <with [3] to [6] neighboring [unimproved] [Forest] tiles>",
-			    "[+1 Culture] from every [Forest]"],
+			    "[+1 Culture] from every [Forest]",
+			   "[+3 Culture, +3 Science, +3 Production] from every [Grand Temple]",
+			    "[+3 Culture, +3 Science, +3 Production] from every [Hermitage]",
+			    "Gain a free [GPBonus] [in capital]",
+			   "[+1 Food, +1 Gold] from every [Sheep]",
+			    "[+15]% combat bonus for [Non-City] units fighting in [Hill]"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
 			"Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen",
 			"Belfast","Caernarfon","Newquay","Saint-Nazaire","Castletown","Stirling","Galway","Conwy",
@@ -618,7 +629,7 @@
 	{
 		"name": "Ethiopia",
 		"leaderName": "Haile Selassie",
-		"adjective": ["ethiopian"],
+		"adjective": ["Ethiopian"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Cultural",
 
@@ -805,7 +816,9 @@
 		"uniques": ["[-50]% maintenance costs <for [Melee] units>",
 			    "[-50]% maintenance costs <for [Sword] units>",
 			    "[-50]% maintenance costs <for [Gunpowder] units>",
-			    "[+25]% XP gained from combat <for [Military] units>"],
+			    "[+25]% XP gained from combat <for [Military] units>"
+			    "[+2 Food] [in all cities] <before discovering [Civil Service]>",
+			    "[+1 Culture] from every [Farm] <after discovering [Fertilizer]>"],
 		"cities": ["Ulundi","Umgungundlovu","Bulawayo","KwaDukuza","Nongoma","oNdini","Nodwengu","Ndonakusuka","Babanango","Khangela",
 			"KwaHlomendlini","Hlobane","eThekwini","Mlambongwenya","Eziqwaqweni","eMangweni","Isiphezi","Masotsheni","Mtunzini","Nyakamubi","Dumazulu",
 			"Hlatikulu","Mthonjaneni","Empangeni","Pongola","Tugela","Kwamashu","Ingwavuma","Hluhluwe","Matubatuba","Mhlahlandlela",
@@ -927,6 +940,7 @@
 		"leaderName": "Sargon",
 		"adjective": ["Akkadian"],
 		"preferredVictoryType": "Domination",
+		"favoredReligion": "Zoroastrianism",
 
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
@@ -944,6 +958,111 @@
 		"uniques": ["[+2 Happiness, +3 Culture, +1 Production] from every [Courthouse]",
 			    "[Land] units gain the [Epic of Battle] promotion"],
 		"cities": ["Akkad","Sipar","Kish","Tell Brak","Nippur","Tell Leilan","Marad","Umma","Azupiranu","Nuzi","Eshnunna"]
+	},
+	{
+		"name": "Armenia",
+		"leaderName": "Tiridates III",
+		"adjective": ["Armenian"],
+		"startBias": ["Hill","Avoid [Jungle]"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion": "Christianity",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "The angels's trumpet has sounded! The holy blades of my soldiers shall be your demise!",
+		"attacked": "You wish to disturb our peace? Then come, let's see if you have the will to destroy my kingdom!",
+		"defeated": "Has God forsaken us?",
+		"introduction": "Do you serve the same God as I do? Or are you just another heretic?",
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Yes.","Go on."],
+		"neutralNo": ["Do not test my patience!","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","We accept."],
+		"hateHello": ["What do you want?","Don't waste much of my time!"],
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["You can't be serious!","No one would agree to that. Ever."],
+		"hateYes": ["Fine.","You can't simply refuse such offer."],
+		"afterPeace": "We shall now pray for better days!",
+		"tradeRequest": "Perhaps we should exchange resources, for the betterment of our kingdoms.",
+		"outerColor": [131, 31, 61],
+		"innerColor": [238, 222, 170],
+		"uniqueName": "Sacred Mountains", 
+		"uniques": ["Double quantity of [Horses] produced",
+			    "[Mounted] units gain the [Ignore terrain cost] promotion",
+			    "[+1 Food, +1 Culture, +1 Gold, +2 Production] from every [Mountain]"]
+		"cities": ["Yerevan","Stepanakert","Shushi","Artashat","Bagaran","Tigranakert","Vagharshapat","Yervandashat","Ani","Ararat","Dvin","Kars","Shirakavan",
+				"Armavir","Gyumri","Vanadzor","Abovyan","Kapan","Gavar","Hrazdan","Ijevan","Goris","Ashtarak","Masis"]
+	},
+	{
+		"name": "Israel",
+		"leaderName": "David",
+		"adjective": ["Israeli"],
+		"startBias": ["Coast","Desert","Avoid [Jungle]","Avoid [Tundra]"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Judaism",
+
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
+		"declaringWar": "By G-d's grace we will not allow these atrocities to occur any longer. We declare war!",
+		"attacked": "May G-d have mercy on your evil soul.",
+		"defeated": "Woe unto you, should any harm befall G-d's House or His people!",
+		"introduction": "My blessings to thee, stranger. I am King David, and I guide the people of Israel.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept!"],
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["That offer is not just!","That can't be true."],
+		"hateYes": ["I can accept.","Fine.","The Lord told me it will be wise to accept this offer."],
+		"afterPeace": "Praise the Lord as he gives peace!",
+		"tradeRequest": "I present you this trade offer.",
+		
+		"outerColor": [237, 216, 184],
+		"innerColor": [0, 54, 255],
+		"uniqueName": "The Promised Land",
+		"uniques": ["[+1 Food, +1 Culture, +1 Faith] from every [Pasture]",
+			    "[+1 Faith] per [4] population [in all cities]",
+			    "[+1 Faith] from every [Luxury resource]"],
+		"cities": ["Jerusalem","Hebron","Gaza","Jericho","Bethlehem","Nazareth","Meggido","Beer-Sheba","Judah",
+			"Hazor","Michmash","Caesarea","Emmaus","Tirzah","Gilgal","Joppa","Shiloh","Ashdod","Ashkelton",
+			"Samara","Gezer","Gibeon","Tamar","Geba","Gath","Avaris","Dan","Jebesh-Gilead"]
+	},
+	{
+		"name": "Sumer",
+		"leaderName": "Gilgamesh",
+		"adjective": ["Sumerian"],
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "Zoroastrianism",
+
+		"startIntroPart1": "Blessings of the heaven be upon you, oh mighty Gilgamesh, the legendary god-king of the Sumer nation. The stories of your life amaze the world to this day. After your death, the gods welcomed you as one of their kind. ",
+		"startIntroPart2": "O great Gilgamesh, builder of the Sumer might, your people seek your guidance! Will you descend from the heavens to astonish the world with your incredible deeds once again? Will you build a civilization that will stand the test of time? ",
+		
+		"declaringWar": "That's enough, prepare to be smashed into the dust!",
+		"attacked": "You dare to attack a demigod? You will regret this sooner than you think!",
+		"defeated": "Defeat. A mere mortal emerged victorious. Can't wait to see how long you will last. Even demigods aren't invicible.",
+		"introduction": "I am Gilgamesh, a demigod who descended to Earth to lead the mighty city of Uruk. Let there be peace among us!",
+		
+		"neutralHello": "Be blessed, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I gladly accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": "Just speak, don't waste my time!",
+		"hateNo": ["Are you joking?","Are you sure?"],
+		"hateYes": ["I can accept.","Fine.","Let it be."],
+		
+		"afterPeace": "Maybe we should celebrate the end of war?",
+		"tradeRequest": "I present you this trade offer.",
+
+		"outerColor": [43, 35, 82],
+		"innerColor": [189, 145, 158],
+		"uniqueName": "Cradle of Civilization",
+		"uniques": ["[+2 Science] [in capital]",
+			    "[+2 Culture] [in all cities] <before discovering [Drama and Poetry]>"],
+		"cities": ["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
+			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
+			"Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
+			"Aratta","Kutu","Der"]
 	},
 	
 
@@ -1226,7 +1345,7 @@
 		"cityStateType": "Religious",
 
 		"declaringWar": "I didn't want to do this. We declare war.",
-		"attacked": "I will fear no evil. For god is with me!",
+		"attacked": "I will fear no evil. For God is with me!",
 		"defeated": "Why have you forsaken us my lord?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255,255,255],
@@ -1264,7 +1383,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"defeated": "Ah, gods! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [214, 89, 255],
 		"cities": ["Bogota"]
@@ -1276,7 +1395,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"defeated": "Ah, God! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [240, 66, 252],
 		"cities": ["Bucharest"]
@@ -1288,7 +1407,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"defeated": "Ah, gods! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [219, 37, 232],
 		"cities": ["Buenos Aires"]
@@ -1300,7 +1419,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"defeated": "Ah, gods! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [155, 0, 166],
 		"cities": ["Kyzyl"]
@@ -1312,7 +1431,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"defeated": "Ah, God! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [191, 2, 160],
 		"cities": ["Monaco"]
@@ -1324,22 +1443,10 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Ah, Gods! Why have you forsaken us?",
+		"defeated": "Ah, God! Why have you forsaken us?",
 		"outerColor": [0, 0, 0],
 		"innerColor": [247, 0, 207],
 		"cities": ["Prague"]
-	},
-	{
-		"name": "Yerevan",
-		"adjective": ["Armenian"],
-		"cityStateType": "Cultured",
-
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Ah, Gods! Why have you forsaken us?",
-		"outerColor": [0, 0, 0],
-		"innerColor": [237, 109, 216],
-		"cities": ["Yerevan"]
 	},
 	{
 		"name": "Mombasa",
