@@ -135,7 +135,7 @@
 	},
 	{
 		"name": "Russia",
-		"leaderName": "",
+		"leaderName": "Peter",
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
@@ -335,7 +335,7 @@
 	},
 	{
 		"name": "Spain",
-		"leaderName": "",
+		"leaderName": "Philip II",
 		"adjective": ["Spanish"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
@@ -490,7 +490,7 @@
 	},
 	{
 		"name": "Hungary",
-		"leaderName": "",
+		"leaderName": "Matthias Corvinus",
 		"adjective": ["Hungarian"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Diplomatic",
@@ -525,7 +525,7 @@
 	},
 	{
 		"name": "Carthage",
-		"leaderName": "",
+		"leaderName": "Hannibal",
 		"adjective": ["Carthaginian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
