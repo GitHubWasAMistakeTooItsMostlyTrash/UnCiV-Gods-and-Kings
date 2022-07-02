@@ -6,7 +6,7 @@ UnCiV started off as a modestly ambitious project with a limited number of achie
 - To increase the availability of Oil, Aluminum and Uranium by about 50%
 
 
-Within a matter of hours, however, the project had expanded exponentially to the overambitious aim of compiling existing mods to add any important civilizations that they added, and to include all modifications to the uniques of civilization in UnCiV with reckless disregard to balance.
+Within a matter of hours, however, the project had expanded exponentially to the overambitious aim of compiling existing mods to include any important civilizations that they added and all modifications to the uniques of civilization in UnCiV, with reckless disregard to balance.
 
 As a result, the project currently seems to have become open-ended.
 
