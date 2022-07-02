@@ -11,7 +11,7 @@ Within a matter of hours, however, the project had expanded exponentially to the
 As a result, the project currently seems to have become open-ended.
 
 
-Special thanks to the following people who did all of the heavy lifting:
+Special thanks to the following people who did most of the heavy lifting:
 - yairm210  https://github.com/yairm210/Unciv ,
 - Ravignir  https://github.com/ravignir/Brave-New-World ,
           https://github.com/ravignir/Ancient-Civilizations ,
