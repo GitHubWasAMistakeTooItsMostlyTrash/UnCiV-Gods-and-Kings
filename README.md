@@ -18,3 +18,5 @@ Special thanks to the following people who did all of the heavy lifting:
           https://github.com/ravignir/Medieval-Civilizations ,
           https://github.com/ravignir/RekMOD ,
 - DW8030    https://github.com/DW8030/3rd-and-4th-Unique-Component ,
+
+and others soon to be added, hopefully
