@@ -9,7 +9,7 @@
 	{
 		//nations
 		"name": "Babylon",
-		"leaderName": "Nebuchadnezzar II",
+		"leaderName": "Nebuchadnezzar the Great",
 		"adjective": ["Babylonian"],
 		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Scientific",
@@ -40,7 +40,7 @@
 	},
 	{
 		"name": "Macedon",
-		"leaderName": "Alexander",
+		"leaderName": "Alexander the Great",
 		"adjective": ["Macedonian"],
 		"startBias": ["Coast"],
 		"preferredVictoryType":"Diplomatic",
@@ -135,7 +135,7 @@
 	},
 	{
 		"name": "Russia",
-		"leaderName": "Peter",
+		"leaderName": "Ivan the Terrible",
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
@@ -248,7 +248,7 @@
 	},
 	{
 		"name": "India",
-		"leaderName": "Rama Rajasekhara",
+		"leaderName": "Sthanu Ravi Varma",
 		"adjective": ["Indian"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Cultural",
@@ -490,7 +490,7 @@
 	},
 	{
 		"name": "Hungary",
-		"leaderName": "Matthias Corvinus",
+		"leaderName": "Stephen I",
 		"adjective": ["Hungarian"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Diplomatic",
@@ -556,20 +556,20 @@
 	},
 	{
 		"name": "Byzantium",
-		"leaderName": "Theodora",
+		"leaderName": "",
 		"adjective": ["Byzantine"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 
-		"startIntroPart1": "All hail the most magnificent and magnanimous Empress Theodora, beloved of Byzantium and of Rome! From the lowly ranks of actress and courtesan you became the most powerful woman in the Roman Empire, consort to Justinian I. Starting in the late 520's AD, you joined your husband in a series of important spiritual and legal reforms, creating many laws which elevated the status of and promoted equal treatment of women in the empire. You also aided in the restoration and construction of many aqueducts, bridges, and churches across Constantinople, culminating in the creation of the Hagia Sophia, one of the most splendid architectural wonders of the world.",
-		"startIntroPart2": "Beautiful Empress, Byzantium is in need of your wisdom and strength - her people are lost without your light to lead them. The Byzantine Empire may have fallen once, but its spirit is still intact waiting to be reborn anew. Can you return Byzantium to the heights of glory it once enjoyed? Can you create a civilization to stand the test of time?",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 
-		"declaringWar": "It is always a shame to destroy a thing of beauty. Happily, you are not one.",
-		"attacked": "Now darling, tantrums are most unbecoming. I shall have to teach you a lesson.",
-		"defeated": "Like a child playing with toys you are. My people will never love you, nor suffer this indignation gracefully.",
-		"introduction": "My, isn't this a pleasant surprise - what may I call you, oh mysterious stranger? I am Theodora, beloved of Byzantium.",
-		"neutralHello": "Hello again.",
-		"tradeRequest": "I have heard that you adept at certain kinds of ... interactions. Show me.",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		"neutralHello": "",
+		"tradeRequest": "",
 		"outerColor": [114, 162, 233],
 		"innerColor": [61, 0, 109],
 		"favoredReligion": "Christianity",
