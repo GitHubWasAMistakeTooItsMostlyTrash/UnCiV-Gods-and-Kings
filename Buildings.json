@@ -54,7 +54,7 @@
 	{
 		"name": "Pyramid",
 		"replaces": "Shrine",
-		"uniqueTo": "The Maya",
+		"uniqueTo": "Maya",
 		"faith": 2,
 		"science": 2,
 		"cost": 40,
