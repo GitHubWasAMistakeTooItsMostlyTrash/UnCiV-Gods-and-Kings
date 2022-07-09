@@ -1,7 +1,8 @@
 {	modUrl:"https://github.com/GitWasAMistakeItsNothingButTrash/UnCiV"
 	"nationsToRemove":["Greece","China","England","France","Russia","Arabia","India","Germany","The Ottomans","Korea",
                      "Iroquois","Siam","Spain","Songhai","Denmark","The Netherlands","Sweden","Austria","Byzantium",
-                     "Brussels","Quebec City","Helsinki","Sydney","Vancouver","Venice","Antwerp","Edinburgh","Jerusalem",
+                     "The Huns", "The Maya", "The Inca",
+ 			"Brussels","Quebec City","Helsinki","Sydney","Vancouver","Venice","Antwerp","Edinburgh","Jerusalem",
 			  "Morocco","Carthage"],
 	"buildingsToRemove":["Mud Pyramid Mosque","Bazaar","Longhouse","Wat","Hanse","Coffee House"],
 	"unitsToRemove": ["Hoplite","Companion Cavalry","Mohawk Warrior","Landsknecht","Camel Archer","Naresuan's Elephant",
