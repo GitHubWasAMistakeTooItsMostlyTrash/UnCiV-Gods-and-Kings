@@ -133,7 +133,7 @@
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Construction",
 		"replaces": "Archer",
-		"uniqueTo": "The Maya",
+		"uniqueTo": "Maya",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
 	},
@@ -245,7 +245,7 @@
 	{
 		"name": "Horse Archer",
 		"unitType": "Archery",
-		"uniqueTo": "The Huns",
+		"uniqueTo": "Huns",
 		"replaces": "Chariot Archer",
 		"movement": 4,
 		"strength": 7,
@@ -318,7 +318,7 @@
 		"name": "Battering Ram",
 		"unitType": "Sword", // You might expect this to be a siege unit, but apparently it is not
 		"replaces": "Spearman",
-		"uniqueTo": "The Huns",
+		"uniqueTo": "Huns",
 		"movement": 2,
 		"strength": 10,
 		"cost": 75,
