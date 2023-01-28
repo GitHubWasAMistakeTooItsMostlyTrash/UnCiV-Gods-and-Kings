@@ -32,23 +32,30 @@ and others soon to be added, hopefully
 
 ## To be decided
 
-Who should lead Russia: 
-Ivan the Terrible, Dmitry the Pious, Matvei Platov, Grigori Rasputin, Alexander Kolchak, Vladimir Putin ?
+~~Who should lead Russia: 
+Ivan the Terrible, Dmitry the Pious, Matvei Platov, Grigori Rasputin, Alexander Kolchak, Vladimir Putin ?~~ \
+Vladimir Vladimirovich Putin, defender of the faith, protector of the innocent
 
-Who should lead Poland: 
-Wenceslaus the Good, Casimir the Great, Jadwiga, Wladyslaw IV Vasa ?
+~~Who should lead Poland: 
+Wenceslaus the Good, Casimir the Great, Jadwiga, Wladyslaw IV Vasa ?~~ \
+Good King Wensceslaus I
 
-Who should lead Spain:
-Philip the Prudent, Manuel Godoy, Carlos V, Carlos VII, Francisco Franco, Javier I, Enrique V ?
+~~Who should lead Spain:
+Philip the Prudent, Manuel Godoy, Carlos V, Carlos VII, Francisco Franco, Javier I, Enrique V ?~~ \
+Carlos V of Spain, the Salic king, champion of Basques, liberator of Catalonia, avenger of Godoy
 
-If Franco leads Spain and Selassie leads Ethiopia,
-does this not necessitate the completion of the holy triarchy by the inclusion of Chile under Pinochet ?
+~~If Franco leads Spain and Selassie leads Ethiopia,
+does this not necessitate the completion of the holy triarchy by the inclusion of Chile under Pinochet ?~~ \
+Even in liberated Spain's absence, liberated Chile deserves to be a faction with special helicopter units
 
-Should Iroquois and Shoshone be replaced by Powhatan and Wampanoag,
-or should Irorquois be removed and Shoshone kept ?
+~~Should Iroquois and Shoshone be replaced by Powhatan and Wampanoag,
+or should Irorquois be removed and Shoshone kept ?~~ \
+Powhatan and Wampanoag instead of Iroquois and Shoshone
 
-If the Powhatan are included, should they be led by:
-Wahunsenacawh, Opechancanough, Pocahontas/Matoaka ? 
+~~If the Powhatan are included, should they be led by:
+Wahunsenacawh, Opechancanough, Pocahontas/Matoaka ?~~ \
+Wahunsenacawh, uniter of the Powhatan Confederacy, brother of Opechancanough, father of Pocahontas
 
-If the Wampanoag are included, should they be led by:
-Ousamequin, Wamsutta, Weetamoo, Metacomet, Tisquantum ?
+~~If the Wampanoag are included, should they be led by:
+Ousamequin, Wamsutta, Weetamoo, Metacomet, Tisquantum ?~~ \
+Ousamequin, uniter of the Wampanoag, father of Wamsutta and Metacomet, friend of Tisquantum
