@@ -487,6 +487,18 @@
 		"requiredTech": "Metal Casting"
 	},
 	{
+		"name": "Longhouse",
+		"replaces": "Workshop",
+//		"uniqueTo": "Iroquois",                             FIGURE OUT HOW TO MAKE IT (SEMI-)UNIQUE TO POWHATAN AND/OR WAMPANOAG
+		"cost": 100,
+		"maintenance": 2,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
+		"requiredTech": "Metal Casting"
+	},
+	{
 		"name": "Forge",
 		"maintenance": 1,
 		"hurryCostModifier": 25,
