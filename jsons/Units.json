@@ -483,6 +483,21 @@
 		"attackSound": "metalhit"
 	},
 	{
+//		"name": "Mohawk Warrior",                            RENAME
+		"unitType": "Sword",
+//		"uniqueTo": "Iroquois",                              FIGURE OUT HOW TO MAKE IT (SEMI-)UNIQUE TO POWHATAN AND/OR WAMPANOAG 
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"hurryCostModifier": 20,
+		"promotions": ["[Mohawk Warrior] ability"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Legion",
 		"unitType": "Sword",
 		"uniqueTo": "Rome",
@@ -1437,7 +1452,7 @@
 		"name": "Pathfinder", 
 		"unitType": "Scout",
 		"replaces": "Scout",
-		"uniqueTo": "Shoshone",
+//		"uniqueTo": "Shoshone",                              FIGURE OUT HOW TO MAKE IT (SEMI-)UNIQUE TO POWHATAN AND/OR WAMPANOAG
 		"movement": 2,
 		"strength": 8,
 		"upgradesTo": "Composite Bowman",
@@ -1565,10 +1580,10 @@
 		"uniques": ["Can move after attacking","[+1] Sight","May withdraw before melee ([50]%)","Can undertake a trade mission with City-State, giving a large sum of gold and [0] Influence"],
 	},
 	{
-		"name": "Comanche Rider", 
+		"name": "Comanche Rider", //                         RENAME
 		"unitType": "Mounted",
 		"replaces": "Cavalry",
-		"uniqueTo": "Shoshone",
+//		"uniqueTo": "Shoshone",                              FIGURE OUT HOW TO MAKE IT (SEMI-)UNIQUE TO POWHATAN AND/OR WAMPANOAG
 		"movement": 5,
 		"strength": 34,
 		"cost": 200,
