@@ -1,5 +1,5 @@
 {	modUrl:"https://github.com/GitWasAMistakeItsNothingButTrash/UnCiV"
-// If a nation, building, unit, etc. is modified, the vanilla version must be removed in this file.  
+// If a nation, building, unit or tech is modified, then the vanilla version of it must be removed using this file.  
 	"nationsToRemove":["Greece","China","England","France","Russia","Arabia","India","Germany","The Ottomans","Korea", "Iroquois",
  			"Siam","Spain","Songhai","Denmark","The Netherlands","Sweden","Austria","Byzantium", "The Huns", "The Maya",
  			"Brussels","Quebec City","Helsinki","Sydney","Vancouver","Venice","Antwerp","Edinburgh","Jerusalem",
