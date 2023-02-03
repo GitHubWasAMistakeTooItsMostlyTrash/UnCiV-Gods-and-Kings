@@ -1,18 +1,26 @@
 ## What is UnCiV?
 
-UnCiV started off as a modestly ambitious project with a limited number of achievable goals aimed at removing the game's bias and making it a more objective respresentation of history:
-- To replace Greece with Macedonia and Austria with Hungary
-- To replace Theodora, Wu Zetian, Isabella, Gandhi, Dido, Maria Theresa and Catherine with less unsympathetic and more representative historical leaders
-- To add Assyria, Poland, Portugal, Brazil, kwaZulu, Indonesia, Shoshone and Venice from Brave New World
+UnCiV started off as a modestly ambitious project with a limited number of achievable goals aimed at removing Sid Meier's inherited bias and making it a more objective respresentation of history:
+- To replace Greece, Austria, the Iroquois and the Shoshone with respectively Macedonia, Hungary,the Powhatan and the Wampanoag
+- To add Assyria, Poland, Portugal, Brazil, kwaZulu, Indonesia and Venice from Brave New World
 - To remove Sweden, Denmark, The Netherlands, Germany, France, England, Iroquois, Arabia, Songhai, Morocco, Ottomans, Korea and Siam
+- To replace Theodora, Wu Zetian, Isabella I, Gandhi, Dido, Maria Theresa, Casimir III and Catherine II with respectively John II Komnenos, Kublai Khan, Charles V, Sthanu Ravi Varma, Hannibal, Stephen I, Wenceslaus I and Vladimir Putin 
+
+In addition, some quality of life changes were planned:
 - To increase the availability of Oil, Aluminum and Uranium by about 50%
 - To balance unit promotions
-- To remove obnoxious city ambient audio tracks
-
+- To remove the more obnoxious city ambient audio tracks (e.g. overly loud engine revving and claxons, annoying female DM voice) 
 
 Within a matter of hours, however, the project had expanded exponentially to the overambitious aim of compiling existing mods to include any important civilizations that they added and all modifications to the uniques of civilization in UnCiV, with reckless disregard to balance.
 
-As a result, the project currently seems to have become open-ended.
+As a result, the project became rather open-ended.
+
+In January 2023, the drive with the offline development branch including all changes since the previous August died and, unfortunately, attempting to recover it from back-ups proved impossible. (Always make multiple copies of back-ups and verify them regularly!)
+
+Since trying to reproduce half a year of work doesn't sound particularly appealing, the original repository was archived.
+But that also doesn't sit well with me, so I forked the archive and may (or may not!) tinker with the project again in future.
+However, going-forward you will no longer be able to rely on offline changes having gone through any testing or polishing before getting committed to the master branch.
+Honestly, you should probably just play [vanilla Unciv](https://github.com/yairm210/Unciv), someone elses mod](https://github.com/topics/unciv-mod) or make your own!
 
 
 ## Who is to thank/blame for UnCiV?
@@ -26,10 +34,10 @@ and you can thank these fine people who did most of the heavy lifting:
           https://github.com/ravignir/RekMOD ,
 - DW8030    https://github.com/DW8030/3rd-and-4th-Unique-Component ,
 
-and others soon to be added, hopefully
+and others ~~soon to be added, hopefully~~
 
 
-## To do
+## ~~To do~~
 
 
 ## To be decided
