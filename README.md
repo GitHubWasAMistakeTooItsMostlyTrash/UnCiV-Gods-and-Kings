@@ -20,7 +20,7 @@ In January 2023, the drive with the offline development branch including all cha
 Since trying to reproduce half a year of work doesn't sound particularly appealing, the original repository was archived.
 But that also doesn't sit well with me, so I forked the archive and may (or may not!) tinker with the project again in future.
 However, going-forward you will no longer be able to rely on offline changes having gone through any testing or polishing before getting committed to the master branch.
-Honestly, you should probably just play [vanilla Unciv](https://github.com/yairm210/Unciv), someone elses mod](https://github.com/topics/unciv-mod) or make your own!
+Honestly, for now you should probably just play [vanilla Unciv](https://github.com/yairm210/Unciv), [someone else's mod](https://github.com/topics/unciv-mod) or preferably make your own!
 
 
 ## Who is to thank/blame for UnCiV?
