@@ -6,6 +6,8 @@ UnCiV started off as a modestly ambitious project with a limited number of achie
 - To add Assyria, Poland, Portugal, Brazil, kwaZulu, Indonesia, Shoshone and Venice from Brave New World
 - To remove Sweden, Denmark, The Netherlands, Germany, France, England, Iroquois, Arabia, Songhai, Morocco, Ottomans, Korea and Siam
 - To increase the availability of Oil, Aluminum and Uranium by about 50%
+- To balance unit promotions
+- To remove obnoxious city ambient audio tracks
 
 
 Within a matter of hours, however, the project had expanded exponentially to the overambitious aim of compiling existing mods to include any important civilizations that they added and all modifications to the uniques of civilization in UnCiV, with reckless disregard to balance.
