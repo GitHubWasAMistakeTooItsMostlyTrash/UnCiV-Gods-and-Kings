@@ -14,13 +14,13 @@ In addition, some quality of life changes were planned:
 Within a matter of hours, however, the project had expanded exponentially to the overambitious aim of compiling existing mods to include any important civilizations that they added and all modifications to the uniques of civilization in UnCiV, with reckless disregard to balance.
 As a result, the project became rather open-ended.
 
-In January 2023, the drive with the offline development branch including all changes since the previous August died and, unfortunately, attempting to recover it from back-ups proved impossible.
-(Always make multiple copies of back-ups and verify them regularly!)
+_In January 2023, the drive with the offline development branch including all changes since the previous August died and, unfortunately, attempting to recover it from back-ups proved impossible._
+_(Always make multiple copies of back-ups and verify them regularly!)_
 
-Since trying to reproduce half a year of lost work doesn't sound particularly appealing, the original repository was archived.
-But that also doesn't sit well with me, so I forked the archive and may (or may not!) tinker with the project again in future.
-However, going-forward you will no longer be able to rely on offline changes having gone through any testing or polishing before getting committed to the master branch.
-Honestly, for now you should probably just play [vanilla Unciv](https://github.com/yairm210/Unciv), [someone else's mod](https://github.com/topics/unciv-mod) or preferably make your own!
+_Since trying to reproduce half a year of lost work doesn't sound particularly appealing, [the original repository](https://github.com/GitWasAMistakeItsNothingButTrash/UnCiV) was archived._
+_But that also doesn't sit well with me, so I forked the archive and may (or may not!) tinker with the project again in future._
+_However, going-forward you will no longer be able to rely on offline changes having gone through any testing or polishing before getting committed to the master branch._
+_Honestly, for now you should probably just play [vanilla Unciv](https://github.com/yairm210/Unciv), [someone else's mod](https://github.com/topics/unciv-mod) or preferably make your own!_
 
 
 ## Who is to thank/blame for UnCiV?
